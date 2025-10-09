@@ -1,22 +1,22 @@
 # MEGA Team Frontend Tasks
 
-Welcome to the MEGA Team Frontend Tasks🤍
-This repository contains tasks for **Beginner** and **Mid-Level** frontend developers.
+Welcome to the **MEGA Team Frontend Tasks** 🤍  
+This repository contains tasks designed for **Beginner** and **Mid-Level** frontend developers to enhance their skills.
 
-Please choose your level and open the corresponding folder:
+Please select your level and navigate to the corresponding folder:
 
 ---
 
 ## 🟢 Beginner
-- If you are new to frontend (HTML & CSS basics), go to:
-./beginner/
-
+For developers new to frontend development, focusing on **HTML** and **CSS** basics:  
+📂 [Beginner Tasks](./beginner/)
 
 ---
 
 ## ⚡ Mid-Level
-- If you have some experience with JavaScript or React, go to:
-./mid-level/
+For developers with experience in **JavaScript** or **React**:  
+📂 [Mid-Level Tasks](./mid-level/)
 
+---
 
-> Each folder contains a `README.md` with detailed instructions for the task.
+> **Note**: Each folder contains a `README.md` file with detailed instructions for the tasks.
