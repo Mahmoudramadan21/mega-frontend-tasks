@@ -9,13 +9,13 @@ Please select your level and navigate to the corresponding folder:
 
 ## 🟢 Beginner
 For developers new to frontend development, focusing on **HTML** and **CSS** basics:  
-📂 [Beginner Tasks](./beginner/)
+📂 [Beginner Tasks](./Beginner%20Level/)
 
 ---
 
 ## ⚡ Mid-Level
 For developers with experience in **JavaScript** or **React**:  
-📂 [Mid-Level Tasks](./mid-level/)
+📂 [Mid-Level Tasks](./Mid%20Level/)
 
 ---
 
