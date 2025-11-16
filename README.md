@@ -1,22 +1,47 @@
-# MEGA Team Frontend Tasks
+# MEGA TEAM Frontend Track
 
-Welcome to the **MEGA Team Frontend Tasks** 🤍  
-This repository contains tasks designed for **Beginner** and **Mid-Level** frontend developers to enhance their skills.
-
-Please select your level and navigate to the corresponding folder:
+**All challenges and tasks for the Frontend Track.**
 
 ---
 
-## 🟢 Beginner
-For developers new to frontend development, focusing on **HTML** and **CSS** basics:  
-📂 [Beginner Tasks](./Beginner%20Level/)
+## Folders
+
+| Folder | Purpose |
+|--------|---------|
+| `Entry-Test-Beginner/` | Test for new applicants |
+| `Entry-Test-Mid/` | Test for mid-level applicants |
+| `Week-01/` | Tasks after acceptance |
+| &nbsp;&nbsp;├─ `Advanced/` | Advanced level |
+| &nbsp;&nbsp;├─ `Mid Level/` | Mid level |
+| &nbsp;&nbsp;└─ `Beginners/` | Beginner level |
 
 ---
 
-## ⚡ Mid-Level
-For developers with experience in **JavaScript** or **React**:  
-📂 [Mid-Level Tasks](./Mid%20Level/)
+## How to Use
+
+### Applicants (Before Joining)
+1. Pick your level:
+   - [Beginner Test](./Entry-Test-Beginner/)
+   - [Mid Test](./Entry-Test-Mid/)
+2. Finish the task
+3. Submit via form (link inside)
+
+### Team Members (After Joining)
+1. Go to your level in [Week-01](./Week-01/)
+2. Complete the weekly task
+3. Push to your team repo
 
 ---
 
-> **Note**: Each folder contains a `README.md` file with detailed instructions for the tasks.
+## Rules
+- Write your own code
+- Use clean, semantic HTML
+- Validate with [W3C](https://validator.w3.org/)
+- Ask in Discord if stuck
+
+---
+
+## Mentor
+**Mahmoud Ramadan** – `@mahmoud` on Discord
+
+---
