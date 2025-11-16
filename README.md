@@ -42,6 +42,6 @@
 ---
 
 ## Mentor
-**Mahmoud Ramadan** – `@mahmoud` on Discord
+**Mahmoud Ramadan** – `@mahmoud_ramadan210338` on Discord
 
 ---
