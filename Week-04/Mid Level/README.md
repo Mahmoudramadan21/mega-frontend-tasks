@@ -1,6 +1,3 @@
-### Mid Level – Week 04 Task
-**File Name:** `README-mid.md`
-
 # Week 04 – Advanced Todo Manager (Functions & Higher Order Functions Mastery)
 **MEGA TEAM Frontend Track – 2026**
 
