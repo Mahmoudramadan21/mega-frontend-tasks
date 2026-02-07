@@ -1,6 +1,3 @@
-### Beginner Level – Week 04 Task
-**File Name:** `README-beginner.md`
-
 # Week 04 – Enhanced Dream Portfolio (CSS Mastery Part 2)
 **MEGA TEAM Frontend Track – 2026**
 
